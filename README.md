@@ -9,5 +9,3 @@
 
 
 NB: "kosarak", "chainstoreFIM", "USCensus" and "T50I10D2M" cannot be uploaded in Github because the size constraint. However, they can be downloaded from [Datasets](https://drive.google.com/drive/folders/19B8xNOKk2oiD1emb7L7b5IxYTdZqo5cq?usp=sharing).
-
-Download all dataset from: https://drive.google.com/drive/folders/19B8xNOKk2oiD1emb7L7b5IxYTdZqo5cq?usp=sharing
