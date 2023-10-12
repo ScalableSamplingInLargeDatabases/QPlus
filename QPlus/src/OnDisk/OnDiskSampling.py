@@ -59,7 +59,8 @@ def getPatterns(dataset, cnk_matrix, delim, N, selectedTid):
                             agg_util -= utrans[m - 1][1]
                         l -= 1
                         i = m
-                        x = Decimal(random()) * (utrans[i - 1][1] + agg_util) * computeCnk(i - 1, l - 1, cnk_matrix)
+                        if l > 0:
+                            x = Decimal(random()) * (utrans[i - 1][1] + agg_util) * computeCnk(i - 1, l - 1, cnk_matrix)
                     pattern = str(pattern)
                     if pattern in sampledPatterns.keys():
                         sampledPatterns[pattern] += 1
