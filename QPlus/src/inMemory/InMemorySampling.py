@@ -30,7 +30,8 @@ def drawPatternWithConstraints(data, weights, cnk_matrix, max_Length):
             agg_util -= data[tid][m - 1][1]
         l -= 1
         i = m
-        x = random() * (data[tid][i - 1][1] + agg_util) * computeCnk(i - 1, l - 1, cnk_matrix)
+        if l > 0:
+            x = random() * (data[tid][i - 1][1] + agg_util) * computeCnk(i - 1, l - 1, cnk_matrix)
     return str(pattern)
 
 
