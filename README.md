@@ -10,5 +10,10 @@
 
 NB: "kosarak", "chainstoreFIM", "USCensus" and "T50I10D2M" cannot be uploaded in Github because the size constraint. However, they can be downloaded from [Datasets](https://drive.google.com/drive/folders/19B8xNOKk2oiD1emb7L7b5IxYTdZqo5cq?usp=sharing).
 
-
+**Example of the guided execution of the QPlus framework**
 ![Screenshot from 2023-10-30 17-30-20](https://github.com/laminediopbsf/NT4QPlus/assets/123580090/3ffd00bd-7e12-45de-81cc-1a10b4998caf)
+
+
+
+**Visualizing sub-profiles from 10 patterns of maximal length 𝑀 = 5 drawn by QPlus**
+![Screenshot from 2023-10-30 17-33-20](https://github.com/laminediopbsf/NT4QPlus/assets/123580090/a70a7abc-3a2e-4bbb-805c-53a825091f6b)
