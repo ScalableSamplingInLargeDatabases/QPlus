@@ -1,4 +1,4 @@
-# New Theorems for Efficient Quantitative Database Exploration
+# Scalable Sampling for High Utility Patterns in Large Databases
 
 
 **How to run this source code?**
