@@ -15,5 +15,6 @@ NB: "kosarak", "chainstoreFIM", "USCensus" and "T50I10D2M" cannot be uploaded in
 
 
 
-**Visualizing sub-profiles from 10 patterns of maximal length 𝑀 = 5 drawn by QPlus**
-![Screenshot from 2023-10-30 17-33-20](https://github.com/laminediopbsf/NT4QPlus/assets/123580090/a70a7abc-3a2e-4bbb-805c-53a825091f6b)
+**Visualizing sub-profiles from QPlus-based drawn patterns**
+![Screenshot from 2023-10-30 17-37-35](https://github.com/laminediopbsf/NT4QPlus/assets/123580090/6674cda4-5a57-44c6-8665-d5f45fc98f1b)
+
