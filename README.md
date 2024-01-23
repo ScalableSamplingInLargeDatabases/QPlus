@@ -2,7 +2,7 @@
 
 
 **How to run this source code?**
-1. Download the code from GitHub link [QPlus](https://github.com/laminediopbsf/NT4QPlus)
+1. Download the code from GitHub link [QPlus](https://github.com/ScalableSamplingInLargeDatabases/QPlus)
 2. Add the downloaded QPlus folder to your Google Drive, at /content/drive/MyDrive/
 3. Open the Colab file *QPlus.ipynb*
 4. Use the available datasets in /content/drive/MyDrive/QPlus/DatasetsHUI/
