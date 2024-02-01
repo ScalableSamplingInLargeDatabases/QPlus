@@ -1,7 +1,7 @@
 
 
 
-__author__ = "LDIOP"
+__author__ = "Ano"
 
 import time
 from inMemory.QPlusInMemoryWithConstrains import QPlusInMemoryWithConstraint
