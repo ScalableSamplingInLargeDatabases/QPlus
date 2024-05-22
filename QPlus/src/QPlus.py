@@ -4,7 +4,7 @@
 __author__ = "Ano"
 
 import time
-from inMemory.QPlusInMemoryWithConstrains import QPlusInMemoryWithConstraint
+from inMemory.QPlusInMemoryWithConstraints import QPlusInMemoryWithConstraint
 from inMemory.QPlusInMemoryWihtoutConstraints import QPlusInMemoryWithoutConstraint
 from OnDisk.QPlusOnDiskWithConstraints import QPlusOnDiskWithConstraint
 from OnDisk.QPlusOnDiskWithoutConstraints import QPlusOnDiskWithoutConstraint
