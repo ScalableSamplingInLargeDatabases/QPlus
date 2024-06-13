@@ -1,5 +1,4 @@
-# Scalable Sampling for High Utility Patterns in Large Databases
-
+# Scalable Sampling for High Utility Patterns
 
 **How to run this source code?**
 1. Download the code from GitHub link [QPlus](https://github.com/ScalableSamplingInLargeDatabases/QPlus)
